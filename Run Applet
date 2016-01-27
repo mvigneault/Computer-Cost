@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>Electricity Applet</title>
+</head>
+<body>
+<applet code=computers.class width="1000" height="1000">
+</applet>
+</body>
+</html>
